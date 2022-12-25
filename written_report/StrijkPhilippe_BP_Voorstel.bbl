@@ -1,0 +1,547 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Azhikodan_2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=56d18b69df9cb5780511dd7959a8de9a}{%
+           family={Azhikodan},
+           familyi={A\bibinitperiod},
+           given={Akhil\bibnamedelima Raj},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec702a99823f23f65c943617e9c5b176}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={Anvitha\bibnamedelimb G.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=697a258499bc2a5c0ed6da33579bef8a}{%
+           family={Jadhav},
+           familyi={J\bibinitperiod},
+           given={Mamatha\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{70e496984bee2f627a59ca531aa2c4a9}
+      \strng{fullhash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \strng{bibnamehash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \strng{authorbibnamehash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \strng{authornamehash}{70e496984bee2f627a59ca531aa2c4a9}
+      \strng{authorfullhash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Innovations in Computer Science and Engineering}
+      \field{month}{5}
+      \field{title}{Stock Trading Bot Using Deep Reinforcement Learning}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 49}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/978-981-10-8201-6_5
+      \endverb
+    \endentry
+    \entry{Ferreira_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5ad3a84df409de95a26f0dc268983ae2}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Fernando\bibnamedelimb G.\bibnamedelimi D.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70e6025cfd77238fa3f1546b4f50b732}{%
+           family={Gandomi},
+           familyi={G\bibinitperiod},
+           given={Amir\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1333fb63c081da9b27200204dd21c7a}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={Rodrigo\bibnamedelimb T.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{859555968b57daa3530ac4a3653a1f7e}
+      \strng{fullhash}{47a8b178177795aa735121b27fe656af}
+      \strng{bibnamehash}{47a8b178177795aa735121b27fe656af}
+      \strng{authorbibnamehash}{47a8b178177795aa735121b27fe656af}
+      \strng{authornamehash}{859555968b57daa3530ac4a3653a1f7e}
+      \strng{authorfullhash}{47a8b178177795aa735121b27fe656af}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Access}
+      \field{title}{Artificial Intelligence Applied to Stock Market Trading: A Review}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{30898\bibrangedash 30917}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1109/access.2021.3058133
+      \endverb
+    \endentry
+    \entry{Huang_2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=84870a582d04b05795c7b010fdda1dbb}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c197210ea3c3cd10b35ad3c6922e157}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e051146e03d25050aa29a5e3e0e64670}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Xiaomeng},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{MDPI} {AG}}%
+      }
+      \strng{namehash}{b84999fb67c7066d4ccb5db51b63c0d4}
+      \strng{fullhash}{051ea305abd121ed16fe89477253b32a}
+      \strng{bibnamehash}{051ea305abd121ed16fe89477253b32a}
+      \strng{authorbibnamehash}{051ea305abd121ed16fe89477253b32a}
+      \strng{authornamehash}{b84999fb67c7066d4ccb5db51b63c0d4}
+      \strng{authorfullhash}{051ea305abd121ed16fe89477253b32a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{8}
+      \field{number}{15}
+      \field{title}{A Novel Reinforcement Learning Approach for Spark Configuration Parameter Optimization}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{5930}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22155930
+      \endverb
+    \endentry
+    \entry{Ianenko_2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c0add8ff02aa092e5f672d6e3a6ae87a}{%
+           family={Ianenko},
+           familyi={I\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=348faa6999049a109a9c20090a794920}{%
+           family={Ianenko},
+           familyi={I\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a4f571016fe2cf28c8c4b0ab557625}{%
+           family={Huhlaev},
+           familyi={H\bibinitperiod},
+           given={Dmitriy},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f39ca8f5fb83ac6add3b7ebfd46d4c35}{%
+           family={Martynenko},
+           familyi={M\bibinitperiod},
+           given={Oksana},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d913da751528a7d0d52d9ae29ee6aa1a}
+      \strng{fullhash}{e2199968538966fa2172b9b98c0f8ce3}
+      \strng{bibnamehash}{e2199968538966fa2172b9b98c0f8ce3}
+      \strng{authorbibnamehash}{e2199968538966fa2172b9b98c0f8ce3}
+      \strng{authornamehash}{d913da751528a7d0d52d9ae29ee6aa1a}
+      \strng{authorfullhash}{e2199968538966fa2172b9b98c0f8ce3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IOP} Conference Series: Materials Science and Engineering}
+      \field{month}{4}
+      \field{title}{Digital transformation of trade: problems and prospects of marketing activities}
+      \field{volume}{497}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{012118}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1757-899x/497/1/012118
+      \endverb
+    \endentry
+    \entry{Zhang_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=359ab680288a001909e649491ad9dad1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Luyao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6a1d7e832757ae4df71e8a583f72623}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Tianyu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6c2194b02adac19aef60d6a2aee5bc}{%
+           family={Lahrichi},
+           familyi={L\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e546d037b5df5a39e6457191aa71f2d}{%
+           family={Salas-Flores},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Carlos-Gustavo},
+           giveni={C\bibinithyphendelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f48df72a8d50da0cdb765e2a304890e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiayi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{52bd2d57bcc548ee6fb0bcd4d7927dfd}
+      \strng{fullhash}{861d1e1248f1caeb49968807ff7b58ef}
+      \strng{bibnamehash}{861d1e1248f1caeb49968807ff7b58ef}
+      \strng{authorbibnamehash}{861d1e1248f1caeb49968807ff7b58ef}
+      \strng{authornamehash}{52bd2d57bcc548ee6fb0bcd4d7927dfd}
+      \strng{authorfullhash}{861d1e1248f1caeb49968807ff7b58ef}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The First International Symposium on Recent Advances of Blockchain Evolution: Architecture, Intelligence, Incentive, and Applications}
+      \field{title}{A Data Science Pipeline for Algorithmic Trading: A Comparative Study of Applications for Finance and Cryptoeconomics}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2206.14932
+      \endverb
+      \keyw{Human-Computer Interaction (cs.HC),General Economics (econ.GN),Computational Finance (q-fin.CP),FOS: Computer and information sciences,FOS: Economics and business}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Azhikodan_2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=56d18b69df9cb5780511dd7959a8de9a}{%
+           family={Azhikodan},
+           familyi={A\bibinitperiod},
+           given={Akhil\bibnamedelima Raj},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec702a99823f23f65c943617e9c5b176}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={Anvitha\bibnamedelimb G.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=697a258499bc2a5c0ed6da33579bef8a}{%
+           family={Jadhav},
+           familyi={J\bibinitperiod},
+           given={Mamatha\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{70e496984bee2f627a59ca531aa2c4a9}
+      \strng{fullhash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \strng{bibnamehash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \strng{authorbibnamehash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \strng{authornamehash}{70e496984bee2f627a59ca531aa2c4a9}
+      \strng{authorfullhash}{b6d26ce09c2cb7508c3c5c13e0c3d219}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Innovations in Computer Science and Engineering}
+      \field{month}{5}
+      \field{title}{Stock Trading Bot Using Deep Reinforcement Learning}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 49}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/978-981-10-8201-6_5
+      \endverb
+    \endentry
+    \entry{Ferreira_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5ad3a84df409de95a26f0dc268983ae2}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Fernando\bibnamedelimb G.\bibnamedelimi D.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70e6025cfd77238fa3f1546b4f50b732}{%
+           family={Gandomi},
+           familyi={G\bibinitperiod},
+           given={Amir\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1333fb63c081da9b27200204dd21c7a}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={Rodrigo\bibnamedelimb T.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{859555968b57daa3530ac4a3653a1f7e}
+      \strng{fullhash}{47a8b178177795aa735121b27fe656af}
+      \strng{bibnamehash}{47a8b178177795aa735121b27fe656af}
+      \strng{authorbibnamehash}{47a8b178177795aa735121b27fe656af}
+      \strng{authornamehash}{859555968b57daa3530ac4a3653a1f7e}
+      \strng{authorfullhash}{47a8b178177795aa735121b27fe656af}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Access}
+      \field{title}{Artificial Intelligence Applied to Stock Market Trading: A Review}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{30898\bibrangedash 30917}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1109/access.2021.3058133
+      \endverb
+    \endentry
+    \entry{Huang_2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=84870a582d04b05795c7b010fdda1dbb}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c197210ea3c3cd10b35ad3c6922e157}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e051146e03d25050aa29a5e3e0e64670}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Xiaomeng},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{MDPI} {AG}}%
+      }
+      \strng{namehash}{b84999fb67c7066d4ccb5db51b63c0d4}
+      \strng{fullhash}{051ea305abd121ed16fe89477253b32a}
+      \strng{bibnamehash}{051ea305abd121ed16fe89477253b32a}
+      \strng{authorbibnamehash}{051ea305abd121ed16fe89477253b32a}
+      \strng{authornamehash}{b84999fb67c7066d4ccb5db51b63c0d4}
+      \strng{authorfullhash}{051ea305abd121ed16fe89477253b32a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{8}
+      \field{number}{15}
+      \field{title}{A Novel Reinforcement Learning Approach for Spark Configuration Parameter Optimization}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{5930}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22155930
+      \endverb
+    \endentry
+    \entry{Ianenko_2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c0add8ff02aa092e5f672d6e3a6ae87a}{%
+           family={Ianenko},
+           familyi={I\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=348faa6999049a109a9c20090a794920}{%
+           family={Ianenko},
+           familyi={I\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a4f571016fe2cf28c8c4b0ab557625}{%
+           family={Huhlaev},
+           familyi={H\bibinitperiod},
+           given={Dmitriy},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f39ca8f5fb83ac6add3b7ebfd46d4c35}{%
+           family={Martynenko},
+           familyi={M\bibinitperiod},
+           given={Oksana},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d913da751528a7d0d52d9ae29ee6aa1a}
+      \strng{fullhash}{e2199968538966fa2172b9b98c0f8ce3}
+      \strng{bibnamehash}{e2199968538966fa2172b9b98c0f8ce3}
+      \strng{authorbibnamehash}{e2199968538966fa2172b9b98c0f8ce3}
+      \strng{authornamehash}{d913da751528a7d0d52d9ae29ee6aa1a}
+      \strng{authorfullhash}{e2199968538966fa2172b9b98c0f8ce3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IOP} Conference Series: Materials Science and Engineering}
+      \field{month}{4}
+      \field{title}{Digital transformation of trade: problems and prospects of marketing activities}
+      \field{volume}{497}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{012118}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1757-899x/497/1/012118
+      \endverb
+    \endentry
+    \entry{Zhang_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=359ab680288a001909e649491ad9dad1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Luyao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6a1d7e832757ae4df71e8a583f72623}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Tianyu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6c2194b02adac19aef60d6a2aee5bc}{%
+           family={Lahrichi},
+           familyi={L\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e546d037b5df5a39e6457191aa71f2d}{%
+           family={Salas-Flores},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Carlos-Gustavo},
+           giveni={C\bibinithyphendelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f48df72a8d50da0cdb765e2a304890e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiayi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{52bd2d57bcc548ee6fb0bcd4d7927dfd}
+      \strng{fullhash}{861d1e1248f1caeb49968807ff7b58ef}
+      \strng{bibnamehash}{861d1e1248f1caeb49968807ff7b58ef}
+      \strng{authorbibnamehash}{861d1e1248f1caeb49968807ff7b58ef}
+      \strng{authornamehash}{52bd2d57bcc548ee6fb0bcd4d7927dfd}
+      \strng{authorfullhash}{861d1e1248f1caeb49968807ff7b58ef}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The First International Symposium on Recent Advances of Blockchain Evolution: Architecture, Intelligence, Incentive, and Applications}
+      \field{title}{A Data Science Pipeline for Algorithmic Trading: A Comparative Study of Applications for Finance and Cryptoeconomics}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2206.14932
+      \endverb
+      \keyw{Human-Computer Interaction (cs.HC),General Economics (econ.GN),Computational Finance (q-fin.CP),FOS: Computer and information sciences,FOS: Economics and business}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

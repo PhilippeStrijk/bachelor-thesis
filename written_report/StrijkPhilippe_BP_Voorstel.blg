@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'StrijkPhilippe_BP_Voorstel.blg'
+[118] biber-MSWIN64:340> INFO - === 
+[151] Biber.pm:418> INFO - Reading 'StrijkPhilippe_BP_Voorstel.bcf'
+[271] Biber.pm:978> INFO - Found 5 citekeys in bib section 0
+[295] Biber.pm:4401> INFO - Processing section 0
+[308] Biber.pm:4592> INFO - Looking for bibtex file 'bibliografie.bib' for section 0
+[343] bibtex.pm:1713> INFO - LaTeX decoding ...
+[357] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliografie.bib'
+[433] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[433] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[434] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[434] Biber.pm:4227> INFO - No sort tailoring available for locale 'nl-NL'
+[451] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[451] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[451] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[452] Biber.pm:4227> INFO - No sort tailoring available for locale 'nl-NL'
+[459] bbl.pm:654> INFO - Writing 'StrijkPhilippe_BP_Voorstel.bbl' with encoding 'UTF-8'
+[467] bbl.pm:757> INFO - Output to StrijkPhilippe_BP_Voorstel.bbl
