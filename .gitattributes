@@ -1,1 +1,0 @@
-s&p500_historic_data.csv filter=lfs diff=lfs merge=lfs -text
