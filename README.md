@@ -3,6 +3,19 @@
 
 This bachelor thesis was written as part of my studies for a "Bachelor in Applied Computer Science" with a specialization in "Data Engineering". I look forward to continuing my academic journey next year at VUB and pursuing a Master of Science in Applied Computer Science: Artificial Intelligence.
 
+## How to Run it Yourself
+Greetings! If you've arrived here after reading my bachelor's thesis and following the provided link, you're ready to dive into the experiment. To get started, simply execute the main.py script.
+
+Inside the main.py file, you have the flexibility to fine-tune hyperparameters to suit your needs. You can choose between two import options:
+
+Import dqn_keras.py: This option utilizes prioritized sampling.
+Import dqn_keras_no_priority: This alternative employs random sampling.
+Moreover, consider experimenting with reward states within your Snake game. You might introduce an instant, higher reward for the specific state where the Snake picks up food. This approach ensures that this critical state is sampled multiple times, aiding the learning process.
+
+Additionally, you have the option to run snake_no_obstacles.py, which displays the graphical user interface (GUI) for the Snake game. This provides a more engaging experience as you can visually interpret the results. You'll have the opportunity to analyze the Snake's behavior and draw conclusions about its actions. Plus, it's incredibly enjoyable to witness the Snake's gradual improvement.
+
+So, dive in, adjust the hyperparameters and reward states to your liking in the main.py class, and explore the exciting world of this experiment!
+
 ## Introduction
 
 This repository contains the code and research findings for training a Reinforcement Learning (RL) agent to play a custom Snake game. The study aims to evaluate the agent's performance with a focus on prioritized experience replay (PER).
