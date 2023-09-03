@@ -1,0 +1,14 @@
+resit_2 : 
+    -> no obstacles 
+    -> no PER buffer, just random sampling
+    -> window size: 200 x 200
+    -> 1000 games
+    -> no point in letting it train too long with an exploration rate of 1%. Progress will be slow.
+    
+    eps decay: 0.999965
+    network: 50 - 50 - 50
+    state size: 12 (score added)
+    batch size: 12
+    learning rate: 0.001
+    discount factor: 0.6
+    min epsilon: 0.01
