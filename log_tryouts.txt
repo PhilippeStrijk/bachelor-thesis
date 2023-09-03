@@ -1,0 +1,40 @@
+resit_1 : 
+    -> no obstacles 
+    -> no PER buffer, just random sampling
+    -> window size: 200 x 200
+    -> 155 games
+    -> no point in letting it train with an exploration rate of 1%. Progress will be slow.
+    -> Mean number of frames per game: 153.67
+    -> Frames with reward 0: 22542
+    -> Frames with non-zero rewards: 1587
+    -> Expressed as a percentage compared to total frames: 6.58%
+    -> exploration rate 1% reached after 13165 frames in game number 125.
+
+
+
+    Conclusion: test with a longer exploration phase
+                -> aim at 50% exploration near 500 games.
+                
+    
+    eps decay: 0.99965
+    network: 50 - 50 - 50
+    state size: 11
+    batch size: 12
+    learning rate: 0.002
+    discount factor: 0.6
+    min epsilon: 0.01
+
+resit_2 : 
+    -> no obstacles 
+    -> no PER buffer, just random sampling
+    -> window size: 200 x 200
+    -> 1000 games
+    -> no point in letting it train too long with an exploration rate of 1%. Progress will be slow.
+    
+    eps decay: 0.999965
+    network: 50 - 50 - 50
+    state size: 12 (score added)
+    batch size: 24
+    learning rate: 0.001
+    discount factor: 0.6
+    min epsilon: 0.01
